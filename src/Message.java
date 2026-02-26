@@ -14,8 +14,14 @@ public class Message {
 
         System.out.println("This sout should be genereting a conflict");
         
+<<<<<<< HEAD
 
         int number = 9;
         System.out.println(number);
+=======
+        String name = "George";
+
+        System.out.println(name);
+>>>>>>> feature-multiple-conflicts
     }
 }
