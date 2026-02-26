@@ -9,5 +9,7 @@ public class Message {
         System.out.println("This is the second message");
 
         System.out.println("It's me for a second time");
+
+        System.out.println("Today is a great day");
     }
 }
