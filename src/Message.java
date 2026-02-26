@@ -4,4 +4,8 @@ public class Message {
 
 
     }
+
+    public static void newMessage() {
+        System.out.println();
+    }
 }
