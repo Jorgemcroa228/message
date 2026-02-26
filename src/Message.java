@@ -14,5 +14,8 @@ public class Message {
 
         System.out.println("This sout should be genereting a conflict");
         
+        String name = "George";
+
+        System.out.println(name);
     }
 }
